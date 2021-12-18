@@ -1,4 +1,4 @@
-# Quantum-arrays-classwork
+# Futures-arrays-classwork
 
 
 ## Task 1 🎯
